@@ -13,6 +13,7 @@ Available template strings:
 - `{current_user_email}`
 - `{requester_id}`
 - `{requester_email}`
+- `{requester_external_id}`
 - `{assignee_id}`
 - `{assignee_email}`
 
